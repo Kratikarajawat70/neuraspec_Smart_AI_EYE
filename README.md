@@ -65,5 +65,3 @@ Goal: Scalable and affordable assistive tech for all.
 
 ## 🙏 Acknowledgment
 Developed with a mission to build a more accessible and inclusive world through the power of AI.
-
-
